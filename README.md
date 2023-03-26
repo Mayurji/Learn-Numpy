@@ -1,6 +1,6 @@
-# Learn-Numpy: Everything you need to know about Numpy!
+# Learn-Numpy
 
-## Building An One-Stop-Shop For Numpy
+### Everything you need to know about Numpy!
 
 If you are venturing into data science or machine learning, you will most likely encounter the Python library NumPy. NumPy is an open-source library that is widely used in scientific computing and data analysis. It provides robust support for multi-dimensional arrays and matrices, and a wide range of mathematical functions to operate on them. Here are some of the most commonly used functions that can help you get started with NumPy.
 
@@ -177,11 +177,7 @@ Here is an example of how to use the `normal()` function to create a normal dist
   plt.show()
 
 ```
-<center>
-<img src="{{site.url}}/assets/images/numpy/normal.png"  style="zoom: 5%  background-color:#DCDCDC;"  width="80%" height=auto/><br>
-<p>Normal Distribution</p> 
-</center>
-
+![Normal Distribution](images/normal.png)
 
 Here is an example of how to use the `uniform()` function to create a uniform distribution using an array:
 
@@ -192,10 +188,7 @@ Here is an example of how to use the `uniform()` function to create a uniform di
   plt.show()
 
 ```
-<center>
-<img src="{{site.url}}/assets/images/numpy/uniform.png"  style="zoom: 5%  background-color:#DCDCDC;"  width="80%" height=auto/><br>
-<p>Uniform Distribution</p> 
-</center>
+![Uniform Distribution](images/uniform.png)
 
 Here is an example of how to use the `binomial()` function to create a binomial distribution using an array:
 
@@ -207,11 +200,7 @@ Here is an example of how to use the `binomial()` function to create a binomial 
   plt.show()
 
 ```
-<center>
-<img src="{{site.url}}/assets/images/numpy/binomial.png"  style="zoom: 5%  background-color:#DCDCDC;"  width="80%" height=auto/><br>
-<p>Binomial Distribution</p> 
-</center>
-
+![Binomial Distribution](images/binomial.png)
 
 ## Conclusion
 
